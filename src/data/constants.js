@@ -255,7 +255,7 @@ export const education = [
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
     school: "Narayana Junior College, Vijayawada",
-    date: "June 2017 - Apr 2029",
+    date: "June 2017 - Apr 2019",
     grade: "96.7%",
     desc: "I completed my seniour secondary education at Narayana Junior College, Vijayawada.",
     degree: "MPC(Intermediate)",
