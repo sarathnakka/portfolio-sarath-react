@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-sarath-react/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio-sarath-react/static/js/main.32e8562f.js",
+    "static/media/HeroImage.jpg": "/portfolio-sarath-react/static/media/HeroImage.72bd5f9c7584d20bdd5b.jpg",
+    "index.html": "/portfolio-sarath-react/index.html",
+    "main.bf538fe7.css.map": "/portfolio-sarath-react/static/css/main.bf538fe7.css.map",
+    "main.32e8562f.js.map": "/portfolio-sarath-react/static/js/main.32e8562f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.32e8562f.js"
+  ]
+}
