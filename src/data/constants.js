@@ -302,7 +302,7 @@ export const projects = [
       "https://github.com/sarathnakka/Ecommerce_react/assets/101663778/6139cec8-834e-4bdd-8abb-73260a81bb1e",
     tags: ["React Js", "API", "HTML", "Tailwind CSS"],
     category: "web app",
-    github: "https://github.com/sarathnakka/Ecommerce_react",
+    github: "http://sarathnakka.github.io/Ecommerce_react",
     webapp: "https://sarathnakka.github.io/",
   },
   {
