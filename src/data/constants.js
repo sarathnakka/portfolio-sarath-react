@@ -10,7 +10,7 @@ export const Bio = {
   github: "https://github.com/sarathnakka",
   
   resume:
-    "https://drive.google.com/file/d/1_mFKwrxLNKfVrjo_92QmhojA_k82eamy/view?usp=sharing",
+    "https://drive.google.com/file/d/1aqKbFEAuAQncbveLgb6B1bq0IEwHGCNE/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/nakka-sai-sarath-1b41092a7/",
   insta: "https://www.instagram.com/__.sarathnakka/ ",
   
